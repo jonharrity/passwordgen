@@ -2,6 +2,10 @@
 
 ## Simple and secure password and keyfile generator
 
+##### Run src/pwgen.py to start.
+
+![screenshot](https://raw.githubusercontent.com/jonharrity/pwgen/master/screenshot.png "Screenshot of program")
+
 Program uses platform-provided random number generator.
 
 ### Password generation
@@ -12,4 +16,5 @@ Click the button to copy the password to clipboard.
 Select a file to overwrite and generate a keyfile. The resulting keyfile will be a combination of digits, special characters, uppercase letters and lowercase letters.  
 Change the keyfile length if desired before selecting the target file.
 
-Written by Jon Harrity
+
+###### Written by Jon Harrity
